@@ -1,0 +1,70 @@
+body {
+	margin: auto;
+    width:100%;
+    height:100%;
+}
+
+.logo {
+    margin:1pt;
+    height: 50px;
+    float:left;
+	position: relative;	
+}
+
+.logo2 {
+    margin:1pt;
+    padding-top:10px;
+    height: 30px;
+    float:left;
+	position: relative;	
+}
+
+.connectdiv {
+    display:inline-block;
+    text-align:center;
+    float:right;
+    position:relative;
+    height:100%;
+    padding-top:10px;
+}
+
+
+.navpopup {
+    padding-top:8px;
+    padding-right:10px;
+    position:relative;
+    float:right;
+}
+
+.tabs {
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.connectionpanel {
+    float:left;
+    position:relative;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.navcanvas {
+    text-align:center;
+}
+
+.middlepanel {
+	height:100%;
+    margin-top:-3pt;
+	display:inline-block;
+  width: 99%;
+}
+
+.headers {
+    height:15%;
+    width:99%;
+    display:inline-block;
+    overflow:visible;
+    position:relative;
+	margin-top: 5px;
+}
+
