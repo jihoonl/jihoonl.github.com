@@ -1,0 +1,14 @@
+
+.pheader {
+  text-align:left;
+  text-indent:0%;
+  width: 20%;
+  height: 100%;
+  float: left;
+}
+
+.pviewer {
+  width: 79%;
+  height: 100%;
+  float: left;
+}
